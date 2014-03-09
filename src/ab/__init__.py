@@ -1,0 +1,3 @@
+VARIANT_A = "A"
+
+VARIANT_B = "B"
